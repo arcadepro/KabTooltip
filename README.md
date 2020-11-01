@@ -1,2 +1,2 @@
 # KabTooltip
-Wow addon.
+Wow Addon.
