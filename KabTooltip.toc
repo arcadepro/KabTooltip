@@ -1,0 +1,7 @@
+## Title: |cff3399FFKab|r Tooltip
+## Interface: 90001
+## Author: Kab
+## Version: 1.01
+## Notes: Puts the Tooltip in the corner.
+
+KabTooltip.lua
